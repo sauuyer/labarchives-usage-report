@@ -1,0 +1,10 @@
+name: "Yale Lab Archives Usage Report"
+output_dir: "docs"
+navbar:
+  title: "Title"
+  left:
+  - text: "Report"
+  href: markdown-la-report.html
+output:
+  html_document:
+ theme: cosmo
