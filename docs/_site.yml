@@ -1,9 +1,11 @@
 name: "Yale Lab Archives Usage Report"
 output_dir: "docs"
 navbar:
-  title: "Title"
+  title: "Assessment Reports"
   left:
-  - text: "Report"
+  - text: "Home"
+  href:index.html
+  - text: "LabArchives Report"
   href: markdown-la-report.html
 output:
   html_document:
